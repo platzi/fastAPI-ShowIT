@@ -1,4 +1,4 @@
-# Gestión de Clientes y Facturación con FastAPI
+# Gestión de Clientes y Facturación con FastAPI - Alberto
 
 ## Descripción
 Este proyecto práctico consiste en desarrollar una API RESTful utilizando FastAPI para gestionar clientes, facturas y transacciones. Debes aplicar los conceptos aprendidos en el Curso de FastAPI, como: la creación de endpoints, validación de datos, autenticación, integración con bases de datos y pruebas automatizadas. El objetivo es construir una solución funcional y escalable que simule un caso de uso real.
